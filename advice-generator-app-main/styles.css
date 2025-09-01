@@ -91,6 +91,7 @@ html, body {
       justify-content: center;
       align-items: center;
       gap: 6px;
+      animation: fadeInUp 1.5s ease;
     }
     .attribution .star {
       font-size: 18px;
@@ -131,4 +132,3 @@ html, body {
         font-size: 11px;
       }
     }
-    
