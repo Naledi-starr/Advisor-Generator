@@ -21,7 +21,7 @@ A simple and interactive web app that fetches random advice from the [Advice Sli
 
 ## 🚀 Demo
 
-[🔗 Live Demo](#) <!-- Replace # with your live site URL if deployed -->
+[🔗 Live Demo](https://advisor-generator-p5c7.vercel.app/)
 
 ---
 
