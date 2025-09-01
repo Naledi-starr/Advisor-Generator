@@ -52,6 +52,7 @@ html, body {
     }
     .divider-desktop {
       display: block;
+      margin: 24px auto;
     }
     .divider-mobile {
       display: none;
