@@ -50,6 +50,13 @@ html, body {
       margin: 24px 0;
       opacity: 0.3;
     }
+    .divider-desktop {
+      display: block;
+    }
+    .divider-mobile {
+      display: none;
+    }
+    
     .dice-button {
       position: absolute;
       left: 50%;
@@ -130,5 +137,11 @@ html, body {
       }
       .attribution {
         font-size: 11px;
+      }
+      .divider-desktop {
+        display: none;
+      }
+      .divider-mobile {
+        display: block;
       }
     }
