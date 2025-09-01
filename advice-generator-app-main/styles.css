@@ -55,6 +55,7 @@ html, body {
     }
     .divider-mobile {
       display: none;
+      margin: 24px auto;
     }
     
     .dice-button {
