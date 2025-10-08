@@ -1,7 +1,4 @@
-Sure! Here's your updated `README.md` with emojis to make it more engaging and visually appealing:
-
 ---
-
 # 🎯 Advice Generator App
 
 A simple and interactive web app that fetches random advice from the [Advice Slip API](https://api.adviceslip.com/) and displays it in a stylish card. Built with **HTML**, **CSS**, and **JavaScript**. 💬
